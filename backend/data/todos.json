@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Setup Project Structure",
+    "description": "Create frontend and backend folders with initial config.",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "title": "Connect API",
+    "description": "Link React frontend to Express backend.",
+    "completed": true
+  }
+]
